@@ -43,7 +43,7 @@ Create a `.env` file in the project root based on `.env.example`.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/ayushshende202/nhava-sheva-customs-ai.git
+git clone https://github.com/Ayushsh1/nhava-sheva-customs-ai.git
 cd nhava-sheva-customs-ai
 ```
 
