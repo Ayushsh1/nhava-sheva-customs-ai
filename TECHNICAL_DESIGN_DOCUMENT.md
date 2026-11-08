@@ -11,7 +11,7 @@
 ---
 
 ### Links & Metadata
-- **Public GitHub Repository URL:** `https://github.com/ayushshende202/nhava-sheva-customs-ai`
+- **Public GitHub Repository URL:** `https://github.com/Ayushsh1/nhava-sheva-customs-ai`
 - **Primary Port Code:** `INNSA` (Jawaharlal Nehru Port Trust / Nhava Sheva Sea Port)
 
 ---
