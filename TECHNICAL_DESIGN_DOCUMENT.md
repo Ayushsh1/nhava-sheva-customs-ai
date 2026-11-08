@@ -12,7 +12,6 @@
 
 ### Links & Metadata
 - **Public GitHub Repository URL:** `https://github.com/ayushshende202/nhava-sheva-customs-ai`
-- **Live Deployed Application URL:** `https://ais-dev-iu3sdikc47dzezo3xdciue-204733022180.asia-northeast1.run.app`
 - **Primary Port Code:** `INNSA` (Jawaharlal Nehru Port Trust / Nhava Sheva Sea Port)
 
 ---
